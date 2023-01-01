@@ -112,4 +112,16 @@
   }
 }
 
+@media (min-width: 801px) {
+  #login-page {
+    display: block;
+  }
+}
+
+@media (max-width: 800px) {
+  #login-page {
+    display: none;
+  }
+}
+
 
