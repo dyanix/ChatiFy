@@ -1,0 +1,3 @@
+# ChatiFy
+ChatiFy-Chatting Application
+"I developed a chat application using React JS for the frontend, ChatEngine API for real-time messaging functionality, and Firebase for the authentication backend and database. The application allows users to communicate with each other in real-time, with the ability to send messages, reactions, and files. I utilized React's functional components and hooks to create a responsive and intuitive interface, and implemented features such as message pagination and offline support. Overall, the project was a great opportunity to learn and apply modern web development technologies and practices."
